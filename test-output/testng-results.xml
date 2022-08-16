@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27789" started-at="2022-08-12T05:45:01Z" finished-at="2022-08-12T05:45:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27789" started-at="2022-08-12T05:45:01Z" finished-at="2022-08-12T05:45:29Z">
+      <class name="org.testng.TestngClass">
+        <test-method status="PASS" signature="param1(java.lang.String, java.lang.String)[pri:0, instance:org.testng.TestngClass@4b952a2d]" name="param1" duration-ms="27699" started-at="2022-08-12T11:15:01Z" finished-at="2022-08-12T11:15:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sahil3102]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sahil3105]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- param1 -->
+      </class> <!-- org.testng.TestngClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
